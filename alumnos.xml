@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root xmlns:a="https://www.w3.org/alumnos" xmlns:p="https://www.w3.org/profesores">
+
+  <a:alumnos>
+    <a:nombre>Pilar Gomez</a:nombre>
+    <a:nombre>Juan Pérez</a:nombre>
+    <a:nombre>Pedro Ruiz</a:nombre>
+  </a:alumnos>
+
+  <p:profesores>
+    <p:nombre>Pepito Pérez</p:nombre>
+    <p:nombre>Rayola Networks</p:nombre>
+    <p:nombre>Pretty pitty</p:nombre>
+  </p:profesores>
+
+</root>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root 
+xmlns:a="https://www.w3.org/alumnado" 
+xmlns:p="https://www.w3.org/profesorado" 
+xmlns:m="https://www.w3.org/personal-mantenimiento">
+
+  <asistentes>
+
+    <a:nombre>Antonio García</a:nombre>
+    <a:nombre>María López</a:nombre>
+    <a:nombre>Juan Fernández</a:nombre>
+
+    <p:nombre>Carmen Rodríguez</p:nombre>
+    <p:nombre>José Sánchez</p:nombre>
+    <p:nombre>Laura Martínez</p:nombre>
+
+    <m:nombre>Francisco Pérez</m:nombre>
+    <m:nombre>Elena Gómez</m:nombre>
+    <m:nombre>Javier Torres</m:nombre>
+
+  </asistentes>
+
+</root>

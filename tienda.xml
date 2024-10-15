@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<productos>
+
+  <alimentacion>
+    <lacteos> <!-- Esta categoría no es estrictamente necesaria en este contexto, 
+                pero es interesante en caso de añadir más productos de alimentación -->
+      <producto>leche</producto>
+      <producto>queso</producto>
+      <producto>yogur</producto>
+    </lacteos>
+  </alimentacion> 
+  
+  <limpieza>
+    <hogar>
+      <producto>lejia</producto>
+      <producto>fregona</producto>
+    </hogar>
+    <personal>
+      <producto>jabon</producto>
+      <producto>gel ducha</producto>
+    </personal>
+  </limpieza>
+
+</productos>
